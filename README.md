@@ -1,0 +1,2 @@
+# Insurance-Claim-prediction
+This whole model set up and estimation procedure of model showing in real life  the charges of insurance is significantly and positively related to age, bmi,  number of children and with the fact that the insurer is a smoker, which is  justifiable and acceptable under the scenario that all these parameters are more  or less direct representation of the goodness of health of a person. 
